@@ -2,4 +2,5 @@
 
 learning git
 
-practicing multiple brand conflicting commits
+changes to readme in new branch 2
+
